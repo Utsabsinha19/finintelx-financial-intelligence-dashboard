@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+psycopg2
+scikit-learn
+matplotlib
+seaborn
+django
+djangorestframework
